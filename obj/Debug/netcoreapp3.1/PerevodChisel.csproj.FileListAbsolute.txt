@@ -1,0 +1,13 @@
+D:\Programming\C#\PerevodChisel\bin\Debug\netcoreapp3.1\PerevodChisel.exe
+D:\Programming\C#\PerevodChisel\bin\Debug\netcoreapp3.1\PerevodChisel.deps.json
+D:\Programming\C#\PerevodChisel\bin\Debug\netcoreapp3.1\PerevodChisel.runtimeconfig.json
+D:\Programming\C#\PerevodChisel\bin\Debug\netcoreapp3.1\PerevodChisel.runtimeconfig.dev.json
+D:\Programming\C#\PerevodChisel\bin\Debug\netcoreapp3.1\PerevodChisel.dll
+D:\Programming\C#\PerevodChisel\bin\Debug\netcoreapp3.1\PerevodChisel.pdb
+D:\Programming\C#\PerevodChisel\obj\Debug\netcoreapp3.1\PerevodChisel.csprojAssemblyReference.cache
+D:\Programming\C#\PerevodChisel\obj\Debug\netcoreapp3.1\PerevodChisel.AssemblyInfoInputs.cache
+D:\Programming\C#\PerevodChisel\obj\Debug\netcoreapp3.1\PerevodChisel.AssemblyInfo.cs
+D:\Programming\C#\PerevodChisel\obj\Debug\netcoreapp3.1\PerevodChisel.csproj.CoreCompileInputs.cache
+D:\Programming\C#\PerevodChisel\obj\Debug\netcoreapp3.1\PerevodChisel.dll
+D:\Programming\C#\PerevodChisel\obj\Debug\netcoreapp3.1\PerevodChisel.pdb
+D:\Programming\C#\PerevodChisel\obj\Debug\netcoreapp3.1\PerevodChisel.genruntimeconfig.cache
